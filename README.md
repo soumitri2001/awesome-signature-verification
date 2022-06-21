@@ -12,13 +12,12 @@ A curated list of papers along with code (if available) in handwritten signature
 ## Offline Signature Verification
 | Paper | Conference/Journal | Year |
 | --- | --- | --- |
+| [Signature Detection, Restoration, and Verification: A Novel Chinese Document Signature Forgery Detection Benchmark](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/html/Yan_Signature_Detection_Restoration_and_Verification_A_Novel_Chinese_Document_Signature_CVPRW_2022_paper.html) | CVPR Workshops | 2022 |
 | [A Two-Stage Siamese Network Model for Offline Handwritten Signature Verification](https://www.mdpi.com/2073-8994/14/6/1216/pdf?version=1655034153) | Symmetry, MDPI |  2022 |
 | [Multilingual Offline Signature Verification Based on Improved Inverse Discriminator Network](https://www.mdpi.com/2078-2489/13/6/293/pdf?version=1654772784) | Information, MDPI | 2022 |
-| [Writer-independent online signature verification based on 2D representation of time series data using triplet supervised network](https://doi.org/10.1016/j.measurement.2022.111312) | Measurement, Elsevier | 2022 |
 | [SWIS: Self-Supervised Representation Learning For Writer Independent Offline Signature Verification](https://arxiv.org/abs/2202.13078) | IEEE ICIP | 2022 |
 | [SURDS: Self-Supervised Attention-guided Reconstruction and Dual Triplet Loss for Writer Independent Offline Signature Verification](https://arxiv.org/abs/2201.10138) | ICPR | 2022 |
-<!-- | []() |  |  |
-| []() |  |  |
+<!--| []() |  |  |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
@@ -41,11 +40,11 @@ A curated list of papers along with code (if available) in handwritten signature
 | --- | --- | --- |
 | [Online handwritten signature verification via network analysis](https://www.sciencedirect.com/science/article/pii/S0378437122004022) | Physica A: Statistical Mechanics and its Applications, Elsevier | 2022 |
 | [Multi-scale residual based siamese neural network for writer-independent online signature verification](https://link.springer.com/article/10.1007/s10489-022-03318-5) | Applied Intelligence, Springer | 2022 |
+| [COMPOSV: compound feature extraction and depthwise separable convolution-based online signature verification](https://link.springer.com/article/10.1007/s00521-022-07018-6) | Neural Computing and Applications, Springer | 2022 |
+| [Online Signature Verification Using Locally Weighted Dynamic Time Warping via Multiple Fusion Strategies](https://ieeexplore.ieee.org/iel7/6287639/9668973/09757194.pdf) | IEEE Access | 2022 |
+| [Writer-independent online signature verification based on 2D representation of time series data using triplet supervised network](https://doi.org/10.1016/j.measurement.2022.111312) | Measurement, Elsevier | 2022 |
 | [A two-tier ensemble approach for writer dependent online signature verification](https://link.springer.com/article/10.1007/s12652-020-02872-5) | AIHC, Springer | 2021 |
 <!-- | []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
