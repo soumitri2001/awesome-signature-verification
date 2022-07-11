@@ -1,6 +1,8 @@
 # Awesome-Signature-Verification
 A curated, non-exhaustive list of papers and related resources in handwritten signature verification using ML/DL techniques.
 
+Associated blog post: [Handwritten Signature Verification](https://heartbeat.comet.ml/handwritten-signature-verification-9f7f9c5df008)
+
 <b>Note:</b> Since this is a vast domain with sufficiently large number of published papers over the years, it is not possible and also somewhat inconvenient for the readers to provide such a near-exhaustive collection. Thus, this list only constitutes the more recent (2016 onwards) and typically those papers that have been published in reputed venues. For a basic understanding, readers are reccomended to first go through some of the survey papers cited below.
 
 ## Survey papers
@@ -37,8 +39,8 @@ A curated, non-exhaustive list of papers and related resources in handwritten si
 | [Offline signature verification on real-world documents](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w48/Engin_Offline_Signature_Verification_on_Real-World_Documents_CVPRW_2020_paper.pdf) | CVPR Workshops | 2020 |
 | [Cut and Compare: End-to-end Offline Signature Verification Network](https://ieeexplore.ieee.org/iel7/9411940/9411911/09412377.pdf) | ICPR | 2020 |
 | [Offline signature verification system: a novel technique of fusion of GLCM and geometric features using SVM](https://link.springer.com/article/10.1007/s11042-020-08851-4) | Multimedia Tools and Applications, Springer | 2020 |
+| [A framework for offline signature verification system: Best features selection approach](https://www.sciencedirect.com/science/article/pii/S016786551830028X) | Pattern Recognition Letters, Elsevier | 2020 |
 | [Inverse discriminative networks for handwritten signature verification](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Inverse_Discriminative_Networks_for_Handwritten_Signature_Verification_CVPR_2019_paper.pdf) | CVPR | 2019 |
-| [Osvnet: Convolutional siamese network for writer independent online signature verification](https://ieeexplore.ieee.org/iel7/8961318/8977948/08978082.pdf) | ICDAR | 2019 |
 | [Hybrid user-independent and user-dependent offline signature verification with a two-channel CNN](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w11/Yilmaz_Hybrid_User-Independent_and_CVPR_2018_paper.pdf) | CVPR Workshops | 2018 |
 | [Signet: Convolutional siamese network for writer independent offline signature verification](https://arxiv.org/pdf/1707.02131) | Arxiv Preprint | 2017 |
 | [An efficient signature verification method based on an interval symbolic representation and a fuzzy similarity measure](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7932929) | IEEE TIFS | 2017 |
@@ -56,12 +58,27 @@ A curated, non-exhaustive list of papers and related resources in handwritten si
 | [Online Signature Verification Using Locally Weighted Dynamic Time Warping via Multiple Fusion Strategies](https://ieeexplore.ieee.org/iel7/6287639/9668973/09757194.pdf) | IEEE Access | 2022 |
 | [Writer-independent online signature verification based on 2D representation of time series data using triplet supervised network](https://doi.org/10.1016/j.measurement.2022.111312) | Measurement, Elsevier | 2022 |
 | [A two-tier ensemble approach for writer dependent online signature verification](https://link.springer.com/article/10.1007/s12652-020-02872-5) | AIHC, Springer | 2021 |
+| [Online signature verification based on dynamic features from gene expression programming](https://link.springer.com/article/10.1007/s11042-021-11063-z) | Multimedia Tools and Applications, Springer | 2021 |
 | [Time-series averaging and local stability-weighted dynamic time warping for online signature verification](https://www.sciencedirect.com/science/article/pii/S0031320320305021) | Pattern Recognition, Elsevier | 2021 |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  | -->
+| [DeepSign: Deep on-line signature verification](https://ieeexplore.ieee.org/iel7/8423754/8599058/09335993.pdf) | IEEE Transactions on Biometrics, Behavior, and Identity Science | 2021 |
+| [OSVFuseNet: Online Signature Verification by feature fusion and depth-wise separable convolution based deep learning](https://www.sciencedirect.com/science/article/pii/S0925231220309231) | Neurocomputing, Elsevier | 2020 |
+| [Online signature verification using single-template matching with time-series averaging and gradient boosting](https://www.sciencedirect.com/science/article/pii/S0031320320300339) | Pattern Recognition, Elsevier | 2020 |
+| [Prewarping Siamese network: Learning local representations for online signature verification](https://ieeexplore.ieee.org/iel7/8671773/8682151/08683036.pdf) | IEEE ICASSP | 2019 |
+| [Deep dynamic time warping: End-to-end local representation learning for online signature verification](https://ieeexplore.ieee.org/iel7/8961318/8977948/08978093.pdf) | ICDAR | 2019 |
+| [Osvnet: Convolutional siamese network for writer independent online signature verification](https://ieeexplore.ieee.org/iel7/8961318/8977948/08978082.pdf) | ICDAR | 2019 |
+| [Online signature verification based on string edit distance](https://link.springer.com/article/10.1007/s10032-019-00316-1) | ICDAR | 2019 |
+| [A stroke-based RNN for writer-independent online signature verification](https://ieeexplore.ieee.org/iel7/8961318/8977948/08978099.pdf) | ICDAR | 2019 |
+| [Usage of autoencoders and Siamese networks for online handwritten signature verification](https://link.springer.com/article/10.1007/s00521-018-3844-z) | Neural Computing and Applications, Springer | 2019 |
+| [Sm-dtw: stability modulated dynamic time warping for signature verification](https://www.sciencedirect.com/science/article/pii/S0167865518303313) | Pattern Recognition Letters, Elsevier | 2019 |
+| [VerSig: a new approach for online signature verification](https://link.springer.com/article/10.1007/s10586-017-1129-4) | Cluster Computing, Springer | 2019 |
+| [Online signature verification modeled by stability oriented reference signatures](https://www.sciencedirect.com/science/article/pii/S0020025518304183) | Information Sciences, Elsevier | 2018 |
+| [Online handwritten signature verification using feature weighting algorithm relief](https://link.springer.com/article/10.1007/s00500-018-3477-2) | Soft Computing, Springer | 2018 |
+| [Online signature verification by spectrogram analysis](https://link.springer.com/article/10.1007/s10489-017-1009-x) | Applied Intelligence, Springer | 2018 |
+| [Discriminative feature selection for on-line signature verification](https://www.sciencedirect.com/science/article/pii/S0031320317303850?casa_token=Z36wchYzixgAAAAA:Oz7m2RbCFVZkZ8LhBZW7jYU-Ng1mlMwcxK3TWpr6nQxtQmW_hiXnyKn1VLyU7MGz1SGGFnHYZho) | Pattern Recognition, Elsevier | 2018 |
+| [Recurrent adaptation networks for online signature verification](https://ieeexplore.ieee.org/iel7/10206/4358835/08543636.pdf) | IEEE TIFS | 2018 |
+| [Online signature verification using recurrent neural network and length-normalized path signature descriptor](https://ieeexplore.ieee.org/iel7/8269349/8269930/08270004.pdf) | ICDAR | 2017 |
+| [Online signature verification based on writer dependent features and classifiers](https://www.sciencedirect.com/science/article/pii/S0167865516301404) | Pattern Recognition Letters, Elsevier | 2016 |
+| [Online signature verification based on generative models](https://ieeexplore.ieee.org/iel5/3477/6238441/06178810.pdf) | IEEE TSMC | 2012 |
+| [Online signature verification and recognition: An approach based on symbolic representation](https://ieeexplore.ieee.org/iel5/34/4816105/04731270.pdf) | IEEE TPAMI | 2008 |
+| [Velocity-image model for online signature verification](https://ieeexplore.ieee.org/iel5/83/36077/01709996.pdf) | IEEE TIP | 2006 |
+| [Identity authentication using improved online signature verification method](https://doi.org/10.1016/j.patrec.2005.04.017) | Pattern Recognition Letters, Elsevier | 2005 |
