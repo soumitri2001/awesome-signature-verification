@@ -5,6 +5,9 @@ Associated blog post: [Handwritten Signature Verification](https://heartbeat.com
 
 <b>Note:</b> Since this is a vast domain with sufficiently large number of published papers over the years, it is not possible and also somewhat inconvenient for the readers to provide such a near-exhaustive collection. Thus, this list only constitutes the more recent (2016 onwards) and typically those papers that have been published in reputed venues. For a basic understanding, readers are reccomended to first go through some of the survey papers cited below.
 
+### Contributing
+> This list of papers will be frequently updated with newer papers. Furthermore, please feel free to submit  a pull request for inclusion of resources/papers etc!
+
 ## Survey papers
 - [Signature identifcation and verifcation techniques: state‑of‑the‑art work](https://link.springer.com/content/pdf/10.1007/s12652-021-03356-w.pdf)
 - [Offline Signature verification: A Systematic Review](https://www.researchsquare.com/article/rs-1723015/latest.pdf)
