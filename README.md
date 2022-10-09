@@ -3,14 +3,14 @@ A curated, non-exhaustive list of papers and related resources in handwritten si
 
 **Associated blog post:** [**Handwritten Signature Verification**](https://heartbeat.comet.ml/handwritten-signature-verification-9f7f9c5df008)
 
-> This collection will be frequently updated with newer papers. Otherwise, please feel free to submit a PR for a quicker inclusion of papers !
+> This collection will be frequently updated with newer papers. Otherwise, please feel free to submit a PR for a quicker inclusion of papers!
 
 <b>Note:</b> Since this is a vast domain with sufficiently large number of published papers over the years, it is not possible and also somewhat inconvenient for the readers to provide such a near-exhaustive collection. Thus, this list only constitutes the more recent (2016 onwards) and typically those papers that have been published in reputed venues. For a basic understanding, readers are reccomended to first go through some of the survey papers cited below.
 
 **Quick Navigation**
 - [Survey papers](#survey-papers)
-- [Offline Signature Verification](#offline-signature-verification)
-- [Online Signature Verification](#online-signature-verification)
+- [**Offline** Signature Verification](#offline-signature-verification)
+- [**Online** Signature Verification](#online-signature-verification)
 
 ## Survey papers
 - [Signature identifcation and verifcation techniques: state‑of‑the‑art work](https://link.springer.com/content/pdf/10.1007/s12652-021-03356-w.pdf)
